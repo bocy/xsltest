@@ -13,7 +13,7 @@ hashtable.put("deviceType","3");
 hashtable.put("appVersion","0.0.1");
 hashtable.put("deviceId","0");
 hashtable.put("timestamp",timestamp);
-hashtable.put("mobile","18825242861");
+hashtable.put("mobile","18812345678");
 hashtable.put("verificationCode","999999");
 
 //排序并合并参数数据
