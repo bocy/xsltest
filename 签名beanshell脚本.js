@@ -5,7 +5,7 @@ String timestamp = vars.get("timestamp");
 String uri = vars.get("uri");
 String host = vars.get("host");
 
-String appkey = "!W7iwls@B8q2RKz&CJipZNY9n9Me0H@q";
+String appkey = "12312";
 //设置参数
 Hashtable hashtable = new Hashtable();
 hashtable.put("appId","0");
